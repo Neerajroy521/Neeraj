@@ -1,3 +1,3 @@
 # Neeraj
 This is my first repository in git hub
-Author - roy
+Author - Neeraj roy
